@@ -13,14 +13,6 @@
         <maven.compile.target>1.8</maven.compile.target>
     </properties>
 
-    <repositories>
-        <repository>
-            <id>nexus-zy-public</id>
-            <name>Team Nexus Repository</name>
-            <url>http://mvn.zhangyue.com:8081/nexus/content/groups/public/</url>
-        </repository>
-    </repositories>
-
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
